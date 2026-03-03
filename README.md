@@ -1,4 +1,4 @@
-##Wolfenstein-clone
+Wolfenstein-clone
 Raycasting Engine
 A pseudo-3D engine built in Python and Pygame that uses raycasting to transform a 2D world into a 3D perspective.
 
